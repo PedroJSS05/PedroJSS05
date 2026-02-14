@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou Pedro Joaquim! 👋
 
-<!--
-**PedroJSS05/PedroJSS05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, sou graduando em **Engenharia da Computação** pela **Universidade Federal de Sergipe (UFS)**, cursando o 6º período. Sou apaixonado por arquitetura de hardware, design físico, sistemas de baixo nível e a intersecção entre eletrônica e computação quântica.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim & Formação
+* 🎓 **Educação:** Engenharia da Computação @ UFS (Previsão de conclusão: [2027]), monitor das matérias de práticas em sistemas digitais e sistemas embarcados.
+* 🔬 **Pesquisa:** Faço parte do projeto de um processador dedicado à simulação de circuitos quânticos, focado em criar um ASIC com arquitetura inspirada em RISC eficiente para algoritmos quânticos.
+* ⚽ **Interesses extras:** Além dos bits e bytes, sou atleta de futsal pelo time da UFS. A disciplina das quadras eu levo para o código.
+
+---
+
+### 🛠️ No que estou trabalhando
+* **Prototipação FPGA:** prototipação de circuitos digitais usando quartus-prime e questa
+* **Design Digital & EDA:** Projetos RTL-to-GDS usando Verilog/SystemVerilog, OpenROAD, Yosys e a PDK sky130.
+* **Computação Quântica:** Implementação de portas quânticas e simulação de hardware.
+* **Software & Infra:** Experiência com C/C++, Java e uso diário de systemverilog e verilog
+
+---
+
+### 🧰 Tecnologias e Ferramentas
+![Verilog](https://img.shields.io/badge/Verilog-FAD000?style=for-the-badge&logo=cpu&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenROAD](https://img.shields.io/badge/OpenROAD-005A9C?style=for-the-badge&logo=cpu&logoColor=white)
+![Quartus Prime](https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Questa](https://img.shields.io/badge/Questa_Sim-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![sky130](https://img.shields.io/badge/PDK-sky130-orange?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroJSS05_AQUI&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Como me encontrar
+* **LinkedIn:** [link-para-seu-perfil]
+* **Lattes:** [link-para-seu-lattes]
