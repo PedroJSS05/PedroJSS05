@@ -29,11 +29,6 @@ Atualmente, sou graduando em **Engenharia da Computação** pela **Universidade 
 
 ---
 
-### 📊 Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroJSS05_AQUI&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Como me encontrar
-* **LinkedIn:** [link-para-seu-perfil]
-* **Lattes:** [link-para-seu-lattes]
+* **LinkedIn:** [www.linkedin.com/in/pedro-joaquim056]
+* **Lattes:** [https://lattes.cnpq.br/0508204653855438]
