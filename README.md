@@ -4,14 +4,14 @@ Atualmente, sou graduando em **Engenharia da Computação** pela **Universidade 
 
 ---
 
-### 🚀 Sobre Mim & Formação
-* 🎓 **Educação:** Engenharia da Computação @ UFS (Previsão de conclusão: [2027]), monitor das matérias de práticas em sistemas digitais e sistemas embarcados.
-* 🔬 **Pesquisa:** Faço parte do projeto de um processador dedicado à simulação de circuitos quânticos, focado em criar um ASIC com arquitetura inspirada em RISC eficiente para algoritmos quânticos.
-* ⚽ **Interesses extras:** Além dos bits e bytes, sou atleta de futsal pelo time da UFS. A disciplina das quadras eu levo para o código.
+### Sobre Mim & Formação
+ **Educação:** Engenharia da Computação @ UFS (Previsão de conclusão: [2027]), monitor das matérias de práticas em sistemas digitais e sistemas embarcados.
+ **Pesquisa:** Faço parte do projeto de um processador dedicado à simulação de circuitos quânticos, focado em criar um ASIC com arquitetura inspirada em RISC eficiente para algoritmos quânticos.
+ **Interesses extras:** Além dos bits e bytes, sou atleta de futsal pelo time da UFS. A disciplina das quadras eu levo para o código.
 
 ---
 
-### 🛠️ No que estou trabalhando
+### No que estou trabalhando
 * **Prototipação FPGA:** prototipação de circuitos digitais usando quartus-prime e questa
 * **Design Digital & EDA:** Projetos RTL-to-GDS usando Verilog/SystemVerilog, OpenROAD, Yosys e a PDK sky130.
 * **Computação Quântica:** Implementação de portas quânticas e simulação de hardware.
@@ -19,7 +19,7 @@ Atualmente, sou graduando em **Engenharia da Computação** pela **Universidade 
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 ![Verilog](https://img.shields.io/badge/Verilog-FAD000?style=for-the-badge&logo=cpu&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OpenROAD](https://img.shields.io/badge/OpenROAD-005A9C?style=for-the-badge&logo=cpu&logoColor=white)
@@ -29,6 +29,6 @@ Atualmente, sou graduando em **Engenharia da Computação** pela **Universidade 
 
 ---
 
-### 📫 Como me encontrar
+### Como me encontrar
 * **LinkedIn:** [www.linkedin.com/in/pedro-joaquim056]
 * **Lattes:** [https://lattes.cnpq.br/0508204653855438]
