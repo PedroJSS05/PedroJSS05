@@ -1,6 +1,6 @@
 # Olá, eu sou Pedro Joaquim! 👋
 
-Atualmente, sou graduando em **Engenharia da Computação** pela **Universidade Federal de Sergipe (UFS)**, cursando o 6º período. Sou apaixonado por arquitetura de hardware, design físico, sistemas de baixo nível e a intersecção entre eletrônica e computação quântica.
+Atualmente, sou graduando em **Engenharia da Computação** pela **Universidade Federal de Sergipe (UFS)**, cursando o 8º período. Sou apaixonado por arquitetura de hardware, design físico, sistemas de baixo nível e a intersecção entre eletrônica e computação quântica.
 
 ---
 
